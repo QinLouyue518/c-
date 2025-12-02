@@ -1,0 +1,5 @@
+{
+  "name": "C语言-消除游戏-教程",
+  "description": "一个交互式教程，用于解决矩阵消除游戏编程问题，并使用 Gemini 进行指导。",
+  "requestFramePermissions": []
+}
